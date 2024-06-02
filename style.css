@@ -69,7 +69,7 @@ footer {
     display: flex;
     list-style: none;
     padding-top: 10%;
-    max-width: 1000px;
+    max-width: 1500px;
 }
 
 .nav-bar ul li a {
@@ -78,7 +78,7 @@ footer {
     font-size: 26px;
     padding: 8px 25px;
     transition: .2s;
-    margin: 0 5fr;
+    margin: 0 5px;
     text-decoration: none;
 }
 
